@@ -1,0 +1,21 @@
+# Discord Bot Dependencies
+discord.py>=2.3.0
+py-cord>=2.4.0
+
+# OpenAI SDK (untuk Groq API)
+openai>=1.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# HTTP Requests
+requests>=2.31.0
+aiohttp>=3.9.0
+
+# Utilities
+asyncio>=3.4.3
+typing-extensions>=4.8.0
+
+# Logging & Monitoring (Optional)
+colorlog>=6.7.0
+psutil>=5.9.0
