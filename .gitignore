@@ -13,10 +13,6 @@ env/
 ENV/
 venv.bak/
 *.cfg
-.env
-pyvenv.cfg
-SETUP.md
-
 
 # --- Python Cache ---
 __pycache__/
